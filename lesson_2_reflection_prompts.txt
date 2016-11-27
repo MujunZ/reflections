@@ -1,4 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
+by
+$ git init
+you create a .git profile in this folder so that you may track commits.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
