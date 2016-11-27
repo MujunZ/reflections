@@ -12,3 +12,12 @@ $ git init
 
 # check status frequently
 $ git status
+
+#compare Working Directorry & Staging Area
+$ git diff
+
+#compare staging area & commit 1
+$ git diff --stages
+
+#compare commit1 & commit2
+@ git diff commit1 commit2
