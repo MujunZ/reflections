@@ -17,7 +17,7 @@ $ git status
 $ git diff
 
 #compare staging area & commit 1
-$ git diff --stages
+$ git diff --staged
 
 #compare commit1 & commit2
 @ git diff commit1 commit2
