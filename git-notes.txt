@@ -33,3 +33,15 @@ $ git checkout easy mode
 
 #create and checkout a new brand, called 'hard-mode'
 $ git checkout -b hard mode
+
+#merge branch1 and branch2
+Method 1
+$ git merge branch1 branch2
+Method 2, if checkout branch1
+$ git merge branch2
+
+#delete branch1
+$ git branch -d branch1 !!!if branch1 didn't merge with any other branches, then it will not appear anymore by "$ git log", unless use the commit ID directly.
+
+#show difference between a commit with its parent
+$ git show commit_ID

@@ -16,8 +16,7 @@ Using branch is a good way to keep the history organized. I wish I can use it to
 How do the diagrams help you visualize the branch structure?
 Diagram helps me know the relationships between the branches.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+They can be tracked by one "git log". It's easier to tell the relationship.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
