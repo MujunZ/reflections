@@ -1,0 +1,32 @@
+#Download Git
+https://www.udacity.com/wiki/ud775/install-git/install-git-mac
+
+#Set up the workspace
+Color, sublime etc…
+
+# Download Astroid as a test folder to play around with
+$ git clone https://github.com/udacity/asteroids.git 
+
+# Creat a .git file
+$ git init
+
+# check status frequently
+$ git status
+
+#compare Working Directorry & Staging Area
+$ git diff
+
+#compare Staging Area & commit 1
+$ git diff --staged
+
+#compare commit1 & commit2
+$ git diff commit1 commit2
+
+#add a new branch, called "easy-mode"
+$ git branches easy-mode
+
+#check what branches you have
+$ git branch
+
+#change to a branch, called "easy-mode"
+$ git checkout easy mode
