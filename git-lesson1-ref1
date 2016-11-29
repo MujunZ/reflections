@@ -16,7 +16,7 @@ $ git status
 #compare Working Directorry & Staging Area
 $ git diff
 
-#compare staging area & commit 1
+#compare Staging Area & commit 1
 $ git diff --staged
 
 #compare commit1 & commit2
