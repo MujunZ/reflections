@@ -30,3 +30,6 @@ $ git branch
 
 #change to a branch, called "easy-mode"
 $ git checkout easy mode
+
+#create and checkout a new brand, called 'hard-mode'
+$ git checkout -b hard mode
