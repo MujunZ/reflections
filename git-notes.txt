@@ -64,3 +64,7 @@ $ git push origin local-branch #remote branch goes first
 
 #download files from GitHub
 $ git pull origin local-branch #remote branch goes first
+
+#change the content in a commit
+$ git commit --amend --reset-author
+

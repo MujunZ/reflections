@@ -8,10 +8,9 @@ automatically stay up-to-date with your remote repository?
 
     Then I can choose which commit to upload or download.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    Clone is copy locally or remotely. Fork is copy inside GitHub. Branches are commits having same tags in a row.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
