@@ -54,3 +54,13 @@ original
 >>>other branch
 other's work
 
+#check if there's a remote branch
+$ git remote
+#chreate a remote branch
+$ git remote origin #the first branch should be called origin
+
+#upload files to GitHub
+$ git push origin local-branch #remote branch goes first
+
+#download files from GitHub
+$ git pull origin local-branch #remote branch goes first
