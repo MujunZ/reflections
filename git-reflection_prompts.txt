@@ -20,3 +20,4 @@ What is the result of merging two branches together? Why do we represent it in t
 They can be tracked by one "git log". It's easier to tell the relationship.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging is more convinient but the machine learning technology is not good enough to do this work now.

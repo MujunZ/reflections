@@ -45,3 +45,12 @@ $ git branch -d branch1 !!!if branch1 didn't merge with any other branches, then
 
 #show difference between a commit with its parent
 $ git show commit_ID
+
+#manually fix the conflicts
+>>>head
+mine
+>>>common accester
+original
+>>>other branch
+other's work
+
