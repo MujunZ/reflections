@@ -73,3 +73,10 @@ $ git fetch #this creates a new branch, then I need to use "$ git merge" to merg
 $get pull #may combine the above two steps together
 
 #pull request
+
+#Removing the last commit
+git reset --hard HEAD^
+#Removing the 2 commit
+git reset --hard HEAD~2
+
+!!!!Checkout the branch, which you want to merge into!!!!
